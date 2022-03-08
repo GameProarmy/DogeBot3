@@ -74,7 +74,7 @@ heroku/nodejs
  pkg install ffmpeg -y 
  pkg install wget
  pkg install imagemagick -y
- git clone https://github.com/gameproarmy/DogeBot2
+ git clone https://github.com/gameproarmy/DogeBot3
  cd DogeBot3
  ls
  rm -rf session.json
